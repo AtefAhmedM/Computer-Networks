@@ -1,5 +1,5 @@
 # Computer-Networks
-Basic Networks Foundation labs
+### Basic Networks Foundation projects. These documents express the basic and extensive knowledge of computer network topics possessed through practical experimentation.
 
 #What I learned
 1. Use network utilities and applications for facilitating communication and testing.
